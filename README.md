@@ -8,7 +8,6 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=JeBB)](https://github.com/R-N/JeBB)
 
 ## Mobile
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ThriftChatAppTestServerHeroku)](https://github.com/R-N/ThriftChatAppTestServerHeroku)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=mangashiro)](https://github.com/R-N/mangashiro)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ThriftChatAppTestClientAndroid)](https://github.com/R-N/ThriftChatAppTestClientAndroid)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=android_device_bn_encore_cyanmobile)](https://github.com/R-N/android_device_bn_encore_cyanmobile)
