@@ -2,7 +2,7 @@
 
 Sorry this Github is kind of a mess. A lot of repository that is not so important but I'm hosting here in Github. Many cannot be made private because they're forks. So please just look here instead. 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=R-N&show_icons=true&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-N&hide=html,css,rtf,glsl,shaderlab,scss,roff&langs_count=10&layout=compact)](#)
+[![Stats](https://github-readme-stats.vercel.app/api?username=R-N&show_icons=true&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-N&hide=html,css,rtf,scss,roff,rich%20text%20format,hack&langs_count=10&layout=compact)](#)
 
 ## Chatbot
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=JeBB)](https://github.com/R-N/JeBB)
