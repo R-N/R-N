@@ -62,6 +62,9 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=CalculatorStringCPP2)](https://github.com/R-N/CalculatorStringCPP2)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=LinearchExt)](https://github.com/R-N/LinearchExt)
 
+## Scripts
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=Scripts)](https://github.com/R-N/Scripts)
+
 <!--
 **R-N/R-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
