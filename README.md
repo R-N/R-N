@@ -4,14 +4,6 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=R-N&show_icons=true&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-N&hide=html,css,rtf,scss,roff,rich%20text%20format,hack&langs_count=10&layout=compact)](#)
 
-## Chatbot
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=JeBB)](https://github.com/R-N/JeBB)
-
-## Mobile
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=mangashiro)](https://github.com/R-N/mangashiro)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ThriftChatAppTestClientAndroid)](https://github.com/R-N/ThriftChatAppTestClientAndroid)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=android_device_bn_encore_cyanmobile)](https://github.com/R-N/android_device_bn_encore_cyanmobile)
-
 ## Web
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=tajwid)](https://github.com/R-N/tajwid)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=raja-laundry)](https://github.com/R-N/raja-laundry)
@@ -24,11 +16,14 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=simta-frontend)](https://github.com/R-N/simta-frontend)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=mobile_legends_armor_damage_reduction_calculator_graph)](https://github.com/R-N/mobile_legends_armor_damage_reduction_calculator_graph)
 
-## Desktop
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ETaxGenerator)](https://github.com/R-N/ETaxGenerator)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=LCDLendingRPL)](https://github.com/R-N/LCDLendingRPL)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=LCDLendingDBD)](https://github.com/R-N/LCDLendingDBD)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=PiP-Tool)](https://github.com/R-N/PiP-Tool)
+## Machine Learning
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_draftpick_dss)](https://github.com/R-N/ml_draftpick_dss)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_yolo_dataset)](https://github.com/R-N/ml_yolo_dataset)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=dead_reckoning_forecast)](https://github.com/R-N/dead_reckoning_forecast)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=kominfo_steam_article)](https://github.com/R-N/kominfo_steam_article)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=prediksicovidjatim)](https://github.com/R-N/prediksicovidjatim)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=covid-forecasting-joint-learning)](https://github.com/R-N/covid-forecasting-joint-learning)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml-utility-loss)](https://github.com/R-N/ml-utility-loss)
 
 ## Game / Unity3D
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=Fort-Release)](https://github.com/R-N/Fort-Release)
@@ -42,14 +37,19 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=MyCharacterController)](https://github.com/R-N/MyCharacterController)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=Tebak-Nama)](https://github.com/R-N/Tebak-Nama)
 
-## Machine Learning
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_draftpick_dss)](https://github.com/R-N/ml_draftpick_dss)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_yolo_dataset)](https://github.com/R-N/ml_yolo_dataset)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=dead_reckoning_forecast)](https://github.com/R-N/dead_reckoning_forecast)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=kominfo_steam_article)](https://github.com/R-N/kominfo_steam_article)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=prediksicovidjatim)](https://github.com/R-N/prediksicovidjatim)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=covid-forecasting-joint-learning)](https://github.com/R-N/covid-forecasting-joint-learning)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml-utility-loss)](https://github.com/R-N/ml-utility-loss)
+## Chatbot
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=JeBB)](https://github.com/R-N/JeBB)
+
+## Desktop
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ETaxGenerator)](https://github.com/R-N/ETaxGenerator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=LCDLendingRPL)](https://github.com/R-N/LCDLendingRPL)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=LCDLendingDBD)](https://github.com/R-N/LCDLendingDBD)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=PiP-Tool)](https://github.com/R-N/PiP-Tool)
+
+## Mobile
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=mangashiro)](https://github.com/R-N/mangashiro)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ThriftChatAppTestClientAndroid)](https://github.com/R-N/ThriftChatAppTestClientAndroid)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=android_device_bn_encore_cyanmobile)](https://github.com/R-N/android_device_bn_encore_cyanmobile)
 
 ## QA / Testing
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ciperpus_test)](https://github.com/R-N/ciperpus_test)
