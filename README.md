@@ -15,7 +15,7 @@ Sorry this Github is kind of a mess. A lot of repository that is not so importan
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=prediksicovidjatim)](https://github.com/R-N/prediksicovidjatim)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=sistem_gaji_vue_thrift)](https://github.com/R-N/sistem_gaji_vue_thrift)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=simta-frontend)](https://github.com/R-N/simta-frontend)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=mobile_legends_armor_damage_reduction_calculator_graph)](https://github.com/R-N/mobile_legends_armor_damage_reduction_calculator_graph)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_damage_reduction_chart)](https://github.com/R-N/ml_damage_reduction_chart)
 
 ## Machine Learning
 [![](https://github-readme-stats.vercel.app/api/pin/?username=R-N&repo=ml_draftpick_dss)](https://github.com/R-N/ml_draftpick_dss)
